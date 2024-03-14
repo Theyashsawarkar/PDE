@@ -7,7 +7,7 @@ efficient and fast development environment. 💻
 
 It's just like a vscode but Better 💥, Faster 💫 and More Efficient 💯.
 
-[Screencast from 2024-03-14 13-09-24.webm](https://github.com/Theyashsawarkar/PDE/assets/104064673/672ac9fd-e913-48ee-9d0f-9c5c315bcc38)
+[PDE_Preview.webm](https://github.com/Theyashsawarkar/PDE/assets/104064673/c239bee8-b99c-4699-8278-5aef61778dd9)
 
 ## Setup 🛠️
 
