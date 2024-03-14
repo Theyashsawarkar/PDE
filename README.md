@@ -19,19 +19,19 @@ Follow these steps to set up PDE:
 git clone https://github.com/Theyashsawarkar/PDE.git
 ```
 
-2.Move the nvim folder into the .config directory:
+2. Move the nvim folder into the .config directory:
 
 ```bash
 mv PDE/nvim ~/.config
 ```
 
-3.Move the .tmux.conf file to your home directory:
+3. Move the .tmux.conf file to your home directory:
 
 ```bash
 mv PDE/Tmux/.tmux.conf ~
 ```
 
-Launch tmux and install all its plugins using TPM (Tmux Plugin Manager):
+Launch tmux and install all its plugins using TPM (Tmux Plugin Manager):  
 Press Ctrl + B, then Shift + I to install plugins with TPM.
 
 Launch Neovim:
